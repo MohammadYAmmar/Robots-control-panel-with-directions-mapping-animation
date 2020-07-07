@@ -9,6 +9,7 @@ The process from entering the direction to be accessed, drawn and stored in the 
 ![alt text](https://github.com/MohammadYAmmar/Robots-control-panel-with-directions-mapping-animation/blob/master/GIF%20of%20the%20process%20from%20entering%20the%20direction%20to%20be%20accessed%2C%20drawn%20and%20stored%20in%20the%20database.gif "process")
 
 when entering the direction to be accessed, drawn animation
+
 ![alt text](https://github.com/MohammadYAmmar/Robots-control-panel-with-directions-mapping-animation/blob/master/GIF%20of%20entering%20the%20direction%20to%20be%20accessed%2C%20drawn%20animation.gif "animation")
 
 
@@ -22,5 +23,4 @@ structure MySQL in phpMyAdmin
 
 Image for storage MySQL in phpMyAdmin
 
-![alt text] (https://github.com/MohammadYAmmar/Robots-control-panel-with-directions-mapping-animation/blob/master/Image%20for%20storage%20in%20phpMyAdmin.png
- "storage in DB")
+![alt text] (https://github.com/MohammadYAmmar/Robots-control-panel-with-directions-mapping-animation/blob/master/Image%20for%20storage%20in%20phpMyAdmin.png "storage in DB")
