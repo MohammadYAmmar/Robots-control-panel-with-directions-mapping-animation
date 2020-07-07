@@ -19,8 +19,9 @@ Picture of the website with example to draw
 
 structure MySQL in phpMyAdmin
  
-![alt text] (https://github.com/MohammadYAmmar/Robots-control-panel-with-directions-mapping-animation/blob/master/Image%20for%20structure%20in%20phpMyAdmin.png "structure in DB")
+![alt text](https://github.com/MohammadYAmmar/Robots-control-panel-with-directions-mapping-animation/blob/master/Image%20for%20structure%20in%20phpMyAdmin.png "structure DB")
 
 Image for storage MySQL in phpMyAdmin
 
-![alt text] (https://github.com/MohammadYAmmar/Robots-control-panel-with-directions-mapping-animation/blob/master/Image%20for%20storage%20in%20phpMyAdmin.png "storage in DB")
+![alt text](https://github.com/MohammadYAmmar/Robots-control-panel-with-directions-mapping-animation/blob/master/Image%20for%20storage%20in%20phpMyAdmin.png
+ "storage DB")
